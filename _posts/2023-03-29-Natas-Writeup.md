@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Natas Writeup"
 date:   2023-03-30 20:32:03 +0700
 categories: ctf
@@ -16,7 +16,7 @@ Ctrl-U to see page source, we get the password for natas2: h4ubbcXrWqsTo7GGnnUML
 
 ## Natas 2
 
-Going to website/files/, we can see the users.txt file. Open this file, we can see password for natas3: `G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q`
+Going to `website/files/`, we can see the users.txt file. Open this file, we can see password for natas3: `G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q`
 
 ## Natas 3
 
