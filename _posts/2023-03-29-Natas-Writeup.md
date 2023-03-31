@@ -1,6 +1,5 @@
 ---
 layout: default
-title:  "Natas Writeup"
 date:   2023-03-30 20:32:03 +0700
 categories: ctf
 ---
