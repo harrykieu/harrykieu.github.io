@@ -53,9 +53,7 @@ function encodeSecret($secret) {
 
 ## Natas9
 
-- Checking the input box by typing random command, we can see that this website is vulnerable by directory traversal, example `a;ls ../../../../home` will list all the file on `/home` on this server.
-- Deep digging inside this server, we can see a folder named `natas_webpass` in `/etc`. Checking this folder, we see that this has all password for all natas level. So, we use command to get the password of natas10: `a;cat ../../../../etc/natas_webpass/natas10` → password: `D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE`
+Checking the input box by typing random command, we can see that this website is vulnerable by directory traversal, example `a;ls ../../../../home` will list all the file on `/home` on this server.
+Deep digging inside this server, we can see a folder named `natas_webpass` in `/etc`. Checking this folder, we see that this has all password for all natas level. So, we use command to get the password of natas10: `a;cat ../../../../etc/natas_webpass/natas10` → password: `D44EcsFkLxPIkAAKLosx8z3hxX1Z4MCE`
 
 ## Natas10
-
--

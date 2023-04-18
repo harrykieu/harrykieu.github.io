@@ -35,6 +35,15 @@ plugins:
 # Markdown processor
 markdown: GFM
 
+# Generate posts
+index_pages:
+  posts:
+    title: Post Listing Page Title
+    excerpt: Post listing page excerpt
+    per_page: 20
+    permalink: /blog/
+    layout: blog
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
